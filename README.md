@@ -2,7 +2,7 @@
 
 ## Überblick
 Dieses Projekt demonstriert verschiedene Sortierungsansätze in Java anhand einer Country-Klasse. Es zeigt die Anwendung von Natural Order, Reverse Order und verschiedenen Comparator-Implementierungen.
-Um die Testdaten zu bekommen kann man den curl befel auführen:
+Um die Testdaten zu bekommen kann man den curl befel auführen (250 Datensätze):
 ```bash
 curl https://restcountries.com/v3.1/all -o countries.json
 ```
